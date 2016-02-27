@@ -1,0 +1,28 @@
+name: Emaho
+favicon: null
+layout_spectrum: 0.21292416052892804
+typography_spectrum: 0.9759279207792133
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.07532244524918497
+  lightness: 0.5466538402251899
+  saturation: 0.8855163545813411
+  rhythmicContrast: 0.1370422886684537
+purpose: []
